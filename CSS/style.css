@@ -361,11 +361,11 @@ footer .content .top {
 }
 
 .top .media-icons a:nth-child(3) {
-    background: #e1306c;
+    background: #0f0e0f;
 }
 
 .top .media-icons a:nth-child(3):hover {
-    color: #e1306c;
+    color: #0e0d0d;
     background: #fff;
 }
 
