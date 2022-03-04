@@ -292,6 +292,7 @@ footer {
     width: 100%;
     bottom: 0;
     left: 0;
+    top:77%;
     background-color: var(--nav-color);
 }
 
@@ -299,7 +300,6 @@ footer::before {
     content: "";
     position: absolute;
     left: 0;
-    top: 100px;
     height: 1px;
     width: 100%;
     background: #afafb6;
@@ -309,13 +309,14 @@ footer .content {
     max-width: 1250px;
     margin: auto;
     padding: 30px 40px 40px 40px;
+    
 }
 
 footer .content .top {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .content .top .logo-details {
