@@ -38,7 +38,7 @@ body.dark {
 }
 
 nav {
-    position: relative;
+    position: fixed;
     top: 0;
     left: 0;
     height: 70px;
@@ -287,7 +287,7 @@ body.dark .search-field i {
 }
 
 footer {
-    position: fixed;
+    position: relative;
     background: #08002b;
     width: 100%;
     bottom: 0;
